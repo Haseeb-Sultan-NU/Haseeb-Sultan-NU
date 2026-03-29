@@ -1,66 +1,38 @@
-# Haseeb Sultan
-AI/ML Engineer specializing in Machine Learning Operations (MLOps), Deep Audio Processing, and Generative AI backend architecture. I focus on bridging the gap between data science and research by taking complex neural networks from theoretical concepts into scalable, production-ready deployments.
+<div align="center">
+  
+# ⚡ Haseeb Sultan
+### <samp>I build </samp> [
+  ![Typing-Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Scalable+ML+Infrastructure;Deep+Audio+Biometrics;Generative+AI+Pipelines;Production-Grade+MLOps)
+]
 
-### Engineering Focus
-* **Audio Biometrics & Deep Learning:** Engineering and fine-tuning advanced voice processing models. Specializing in secure speaker verification, liveness detection, and dynamic audio prompt generation utilizing extensive custom datasets to achieve production-grade accuracy.
-* **MLOps, DevOps & Infrastructure:** Architecting robust deployment lifecycles. Experienced in containerizing applications, orchestrating CI/CD pipelines, and establishing comprehensive observability (Prometheus/Grafana) to ensure high availability and performance of ML models in production.
-* **Generative AI & Semantic Retrieval:** Designing end-to-end Retrieval-Augmented Generation (RAG) systems and agentic workflows. Integrating vector databases and LLMs to build context-aware, autonomous data processing applications.
-* **High-Performance Backend Systems:** Leveraging parallel computing paradigms (MPI, OpenMP) and low-level systems programming (C/C++) to heavily optimize algorithmic efficiency, memory management, and execution time for compute-intensive workloads.
+---
 
-### Featured Work
-* **Biometric Security & Audio Generation (AwaazOnBoard):** Engineered an enterprise-grade voice authentication system. Fine-tuned deep learning audio models on extensive datasets, achieving highly accurate speaker verification and liveness detection. Integrated advanced audio prompt generation for dynamic user interaction.
-* **Automated Deployment & ML Pipelines:** Streamlined the deployment lifecycle for various AI projects by containerizing complex environments (Docker), configuring continuous integration workflows, and deploying backend services optimized for inference latency. 
-* **Enterprise-Grade RAG Architecture:** Architected complete semantic search assistants, integrating vector databases (FAISS/Chroma) and framework orchestration (LangChain) to transform unstructured web data into interactive, queryable endpoints.
-* **High-Efficiency Compute Infrastructure:** Developed heavily optimized, parallelized algorithms for complex network analysis (Triangle Counting) and simulation distribution, drastically reducing computational overhead using C/C++ and message-passing interfaces.
-* **Commercial Web Architecture:** Structured the technical hierarchy, indexing logic, and performance benchmarking for a live, public-facing real estate platform to maximize search engine visibility.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2196F3?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-### Technical Arsenal
+</div>
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;"><b>Core Languages</b></td>
-    <td style="border: none;">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-      <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;"><b>AI Frameworks</b></td>
-    <td style="border: none;">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/LangChain-%230F0F0F.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;"><b>MLOps & Infra</b></td>
-    <td style="border: none;">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;"><b>Data & Web</b></td>
-    <td style="border: none;">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </td>
-  </tr>
-</table>
+### 🚀 Professional Summary
+AI/ML Engineer specializing in Machine Learning Operations (MLOps) and Deep Audio Processing. I bridge the gap between complex research and production-grade software architecture.
 
-### Engineering Performance
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseeb-Sultan-NU&show_icons=true&theme=default&hide_border=true" alt="Haseeb Sultan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Sultan-NU&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **AI & GenAI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![HF](https://img.shields.io/badge/-%F0%9F%A4%97%20HuggingFace-FFD21E?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **MLOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Actions](https://img.shields.io/badge/-GH%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Data & Web** | ![VectorDB](https://img.shields.io/badge/-Vector%20DB-000000?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Web](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat) |
+
+---
+
+### 📈 Metrics & Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseeb-Sultan-NU&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Sultan-NU&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-Sultan-NU&theme=transparent&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
+</div>
