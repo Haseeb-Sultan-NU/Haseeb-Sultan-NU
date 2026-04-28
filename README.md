@@ -27,12 +27,34 @@ AI/ML Engineer specializing in Machine Learning Operations (MLOps) and Deep Audi
 
 ---
 
-### 📈 Metrics & Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseeb-Sultan-NU&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Sultan-NU&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" />
-</div>
+### 🏗️ System Design Highlights
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-Sultan-NU&theme=transparent&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
-</div>
+- Designed **production-grade ML systems** with monitoring, logging, and auto-scaling
+- Built **real-time inference APIs** using FastAPI + Docker
+- Implemented **observability stacks** with Prometheus & Grafana
+- Developed **RAG pipelines** with vector search and LLM orchestration
+
+
+### 🧪 Research Interests
+
+- Deep Audio Processing & Speaker Recognition
+- Generative AI Systems & LLM Orchestration
+- Efficient Model Deployment & Edge ML
+- AI Infrastructure & Distributed Training
+
+
+### 🧠 Featured AI/ML Work
+
+- **🔊 Deep Audio Biometrics System**
+  End-to-end speaker verification pipeline using PyTorch, achieving robust performance under noisy conditions.  
+  *Stack:* PyTorch, Librosa, FastAPI, Docker
+
+- **⚙️ Scalable MLOps Pipeline**
+  Built CI/CD-enabled ML pipelines with automated training, validation, and deployment.  
+  *Stack:* Docker, GitHub Actions, Prometheus, Grafana
+
+- **🧬 Generative AI Pipeline**
+  Designed modular LLM workflows using LangChain + vector databases for retrieval-augmented generation (RAG).  
+  *Stack:* LangChain, FAISS, HuggingFace
+
+
