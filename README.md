@@ -1,8 +1,8 @@
 <div align="center">
   
-# ⚡ Haseeb Sultan
+#   Haseeb Sultan
 ### <samp>I build </samp> [
-  ![Typing-Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Scalable+ML+Infrastructure;Deep+Audio+Biometrics;Generative+AI+Pipelines;Production-Grade+MLOps)
+  ![Typing-Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=550&lines=Multi-Agent+AI+Systems;Semi-Supervised+Object+Detection;Real-Time+Voice+Biometrics;Scalable+MLOps+Pipelines;Semantic+Search+%26+RAG)
 ]
 
 ---
